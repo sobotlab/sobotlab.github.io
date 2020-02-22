@@ -83,7 +83,7 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-size: 22px;
+	font-size: 18px;
 	color: #ddd;
 	font-weight: 700;
 }
@@ -143,8 +143,8 @@ header p {
 	padding-bottom: 200px;
 }
 .intro-text H1 {
-	font-size: 60px;
-	color: #eeeeee;
+	font-size: 48px;
+	color: #dddddd;
 	font-weight: 600;
 }
 .color {
